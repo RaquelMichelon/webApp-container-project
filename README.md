@@ -1,6 +1,6 @@
 # Web App Container
 
-This project uses Docker Compose to run an HTML aplication in an Apache Container.
+This project uses Docker Compose to run an HTML application in an Apache Container.
 
 Steps
 
