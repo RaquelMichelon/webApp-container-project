@@ -4,9 +4,9 @@ This project uses Docker Compose to run an HTML aplication in an Apache Containe
 
 Steps
 
-1 Create an YML file defining an Apache server (httpd); 
+## 1 Create an YML file defining an Apache server (httpd); 
 
-2 Especify in the YML file where the aplication files will be; 
+## 2 Especify in the YML file where the aplication files will be; 
 
 As especified on volumes, the aplication files should be on `/website` directory.
 
@@ -30,4 +30,4 @@ As especified on volumes, the aplication files should be on `/website` directory
   The app will be running on the hostIP:80
   
   
-3 Upload the YML and the app into a GitHub repo
+## 3 Upload the YML and the app into a GitHub repo
